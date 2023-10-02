@@ -1,3 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (y<room_height)y+=8
+if (timer<0){
+	instance_create_depth(x,y-20,room,obj_playerlaser)
+	timer=5
+}
