@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_killbox",
-  "eventList": [],
+  "name": "class_enemyprojectile",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_playerlaser","path":"objects/obj_playerlaser/obj_playerlaser.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -10,8 +13,8 @@
     "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "class_enemy",
-    "path": "objects/class_enemy/class_enemy.yy",
+    "name": "class_projectile",
+    "path": "objects/class_projectile/class_projectile.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -29,9 +32,6 @@
   "properties": [],
   "solid": false,
   "spriteId": null,
-  "spriteMaskId": {
-    "name": "spr_redboss",
-    "path": "sprites/spr_redboss/spr_redboss.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }
