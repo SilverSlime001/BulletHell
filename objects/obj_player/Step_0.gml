@@ -2,5 +2,7 @@
 // You can write your code in this editor
 timer--
 invinframe--
-if (hp<=0)
+
+if(hp<=0){
 	room_goto(rm_gameover)
+}

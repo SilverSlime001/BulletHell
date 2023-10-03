@@ -11,7 +11,10 @@
     "name": "buttons",
     "path": "folders/Objects/buttons.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "class_button",
+    "path": "objects/class_button/class_button.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

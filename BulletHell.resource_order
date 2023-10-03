@@ -35,6 +35,7 @@
     {"name":"class_enemyprojectile","order":11,"path":"objects/class_enemyprojectile/class_enemyprojectile.yy",},
     {"name":"spr_helpbutton","order":2,"path":"sprites/spr_helpbutton/spr_helpbutton.yy",},
     {"name":"obj_helpbutton","order":2,"path":"objects/obj_helpbutton/obj_helpbutton.yy",},
+    {"name":"class_button","order":3,"path":"objects/class_button/class_button.yy",},
     {"name":"spr_left","order":1,"path":"sprites/spr_left/spr_left.yy",},
     {"name":"rm_play2","order":2,"path":"rooms/rm_play2/rm_play2.yy",},
     {"name":"rm_info","order":3,"path":"rooms/rm_info/rm_info.yy",},
