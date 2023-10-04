@@ -29,7 +29,7 @@
     {"name":"rm_play1","order":1,"path":"rooms/rm_play1/rm_play1.yy",},
     {"name":"class_temptxt","order":1,"path":"objects/class_temptxt/class_temptxt.yy",},
     {"name":"spr_right","order":2,"path":"sprites/spr_right/spr_right.yy",},
-    {"name":"baddie8","order":10,"path":"sprites/baddie8/baddie8.yy",},
+    {"name":"spr_cube","order":2,"path":"sprites/spr_cube/spr_cube.yy",},
     {"name":"rm_instructions","order":4,"path":"rooms/rm_instructions/rm_instructions.yy",},
     {"name":"obj_infobutton","order":1,"path":"objects/obj_infobutton/obj_infobutton.yy",},
     {"name":"obj_ballprojectile","order":10,"path":"objects/obj_ballprojectile/obj_ballprojectile.yy",},
