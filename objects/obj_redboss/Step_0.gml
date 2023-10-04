@@ -4,4 +4,3 @@ if (health<=0){
 	instance_destroy()
 	room_goto_next()
 }
-//draw_healthbar(0,600)
