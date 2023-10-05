@@ -12,5 +12,5 @@ if (timer>100){
 		change*=-1
 	d+=change
 	if (timer%3==0)
-		instance_create_depth(x,y-20,room,obj_ballprojectile,{direction:d,speed:3})
+		instance_create_depth(x,y,room,obj_ballprojectile,{direction:d,speed:3})
 }
