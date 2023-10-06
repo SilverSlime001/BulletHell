@@ -13,4 +13,7 @@ if (timer>100){
 	d+=change
 	if (timer%3==0)
 		instance_create_depth(x,y,room,obj_ballprojectile,{direction:d,speed:3})
+		if(!audio_is_playing(laser)){
+			audio_play_sound(laser,0,0)
+		}
 }
